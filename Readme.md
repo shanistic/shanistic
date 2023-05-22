@@ -6,11 +6,10 @@
 <a href="https://github.com/shanistic"><img src="https://readme-typing-svg.herokuapp.com?lines=Reactjs+Developer;Front+End+Developer&center=true&width=500&height=50"></a>
   </p>
 
-### 👨‍💻 Skill Trainer at House of Professionals
+### 👨‍💻Training at House of Professionals
 <!-- - 🌱 Expanding knowledge in WEB 3.0. -->
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 📢 Passionate about teaching and inspiring students; taught over 100.
-- 🥅 2023-24Goals: Contribute more to Open Source projects and execute innovative ideas.
+- 🥅 2023-24Goals: Contribute to Open Source projects and execute innovative ideas.
 - 💎 Let's connect if you're a tech enthusiast!  
  
  
@@ -20,7 +19,7 @@
   <a href="https://www.linkedin.com/in/muhammad-usman-940b2a274/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto: mus87609@gmail.com" target="_blank">
+  <a href="mailto:mus87609@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/_shanistic_/" target="_blank">
