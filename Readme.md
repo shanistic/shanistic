@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Muhammad Usman <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> <a href="href="https://github.com/shanistic""></h1>
   </div>
 <p align="center">
-<a href="https://github.com/shanistic"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Full+Stack+Skill+Trainer;Front+End+Developer;Backend+Developer&center=true&width=500&height=50"></a>
+<a href="https://github.com/shanistic"><img src="https://readme-typing-svg.herokuapp.com?lines=Reactjs+Developer;Front+End+Developer&center=true&width=500&height=50"></a>
   </p>
 
 ### 👨‍💻 Skill Trainer at House of Professionals
@@ -17,16 +17,16 @@
  <br>
  
  <div align="center">
-  <a href="https://www.linkedin.com/in/wajeeh-haider3408/" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-usman-940b2a274/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:mus87609@gmail.com" target="_blank">
+  <a href="mailto: mus87609@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/syedwajeehshahhaider/" target="_blank">
+  <a href="https://www.instagram.com/_shanistic_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.facebook.com/wajeehhaider.shah" target="_blank">
+  <a href="https://www.facebook.com/muhammad-usman-940b2a274" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
